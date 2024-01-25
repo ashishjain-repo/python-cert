@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import sys
 
 cmd_list = sys.argv
