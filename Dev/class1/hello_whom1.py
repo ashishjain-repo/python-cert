@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+# Import the basic sys library.
 import sys
 
 cmd_list = sys.argv
